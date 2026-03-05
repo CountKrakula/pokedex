@@ -31,7 +31,7 @@ A clean, responsive Pokédex web app built with vanilla HTML, CSS and JavaScript
 Just clone the repo and open `index.html` in your browser — no dependencies or build tools needed.
 
 ```bash
-git clone https://github.com/your-username/pokedex.git
+git clone https://github.com/CountKrakula/pokedex.git
 cd pokedex
 open index.html
 ```
